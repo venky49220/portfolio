@@ -1,7 +1,7 @@
 Full Stack Developer - intern
 
 Skills
-
+------
 Linux
 
 C 
@@ -21,6 +21,7 @@ CSS
 JAVA SCRIPT
 
 Education
+---------
 
 Master's In Information Studies:
 
@@ -45,6 +46,7 @@ Telagana,India
 GPA:6.5
 
 Projects
+---------
 
 Diabetics Disease Prediction, The objective of Diabetes Disease Prediction project
 is to diagnostically predict whether a patient has diabetes or not. In particular most
@@ -56,6 +58,7 @@ Vehicle driver gets an alert message and prevent vehicle accident when driver fa
 asleep during driving
 
 Experience
+----------
 
 Wipro Technologies LTD - Software Engineering Intern
 Hyderabd, India
