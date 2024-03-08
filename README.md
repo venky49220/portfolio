@@ -1,6 +1,5 @@
 Full Stack Developer - intern
-Skills
-======
+###Skills
 Linux
 C  
 Java
@@ -10,8 +9,7 @@ Node JS
 HTML
 CSS
 JAVA SCRIPT
-Education
-=========
+###Education
 Master's In Information Studies:
 Trine University- 12/2023
 Detroit, MI
@@ -23,19 +21,16 @@ Jawaharlal Nehru Technological
 University-07/2022
 Telagana,India
 GPA:6.5
-Projects
-==========
+###Projects
 Diabetics Disease Prediction, The objective of Diabetes Disease Prediction project
 is to diagnostically predict whether a patient has diabetes or not. In particular most
 of the women develop gestational diabetes during their pregnancy period.
 Diabetes can be controlled if it is predicted earlier
 
-Vehicle Accident Detection Using Eye Blink Sensor
-=================================================
+##Vehicle Accident Detection Using Eye Blink Sensor
 Vehicle driver gets an alert message and prevent vehicle accident when driver falls
 asleep during driving
-Experience
-============
+###Experience
 Wipro Technologies LTD - Software Engineering Intern
 Hyderabd, India
 04/2022 - 06/2022
