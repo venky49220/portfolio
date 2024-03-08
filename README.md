@@ -1,30 +1,51 @@
 Full Stack Developer - intern
 
 ###Skills
+
 Linux
-C  
+
+C 
+
 Java
+
 python
+
 MySQL
+
 Node JS
+
 HTML
+
 CSS
+
 JAVA SCRIPT
 
 ###Education
+
 Master's In Information Studies:
+
 Trine University- 12/2023
+
 Detroit, MI
+
 GPA:3.9
+
 Bachelor Of Technology In
+
 Electronics And Communication
+
 Engineering:
+
 Jawaharlal Nehru Technological
+
 University-07/2022
+
 Telagana,India
+
 GPA:6.5
 
 ###Projects
+
 Diabetics Disease Prediction, The objective of Diabetes Disease Prediction project
 is to diagnostically predict whether a patient has diabetes or not. In particular most
 of the women develop gestational diabetes during their pregnancy period.
@@ -35,6 +56,7 @@ Vehicle driver gets an alert message and prevent vehicle accident when driver fa
 asleep during driving
 
 ###Experience
+
 Wipro Technologies LTD - Software Engineering Intern
 Hyderabd, India
 04/2022 - 06/2022
